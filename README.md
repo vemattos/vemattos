@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/vemattos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemattos&layout=compact&theme=radical&langs_count=10&hide=html,css" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemattos&layout=compact&theme=radical&langs_count=10&hide=html,css&cache_seconds=1800" alt="Top Langs">
   </a>
 </p>
 
