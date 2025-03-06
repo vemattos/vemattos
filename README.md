@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h2 align=center>Linguagens e Frameworks</h2>
+<h2 align=center>Tools</h2>
   <div align=center>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </div>
 
-<h2 align=center>Contato</h2>
+<h2 align=center>Contact</h2>
   <div align=center>
     <a href="mailto:vinicius.emattos@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/></a>
     <a href="https://www.instagram.com/vinimattoss_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/></a>
