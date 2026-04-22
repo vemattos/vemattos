@@ -1,24 +1,48 @@
-<h1 align=center>Hello there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
+<h2 align="center">Backend developer</h1>
 
-<p align="center">
-  <a href="https://github.com/vemattos">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemattos&layout=compact&theme=radical&langs_count=10&hide=html,css&cache_seconds=1800" alt="Top Langs">
-  </a>
+
+---
+
+## 🧠 About
+
+- 🎓 Computer Science student
+- 💻 Backend Developer (Java + Spring Boot)
+- 🐍 Currentky working with Python
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 </p>
 
-<h2 align=center>Languages & Tools</h2>
-  <div align=center>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </div>
+---
 
-<h2 align=center>Contact</h2>
-  <div align=center>
-    <a href="mailto:vinicius.emattos@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/></a>
-    <a href="https://www.instagram.com/vinimattoss_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/></a>
-    <a href="https://www.linkedin.com/in/vin%C3%ADcius-mattos-919094305/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/></a>
-  </div>
+## 📊 Stats
 
-          
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vemattos&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vemattos&layout=compact&theme=radical&hide=html,css" height="150"/>
+</p>
+
+---
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:vinicius.emattos@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-mattos-919094305/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+  </a>
+  <a href="https://www.instagram.com/vinimattoss_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30"/>
+  </a>
+</p>
